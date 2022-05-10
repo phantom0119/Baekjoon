@@ -17,3 +17,15 @@ GIT 학습 중
    이후에 git checkout [커밋번호]   ->  커밋번호는 앞자리에서 7자리만 입력해도 무관.
  
    git checkout -    :  가장 최근의 commit 버전으로 checkout
+
+
+8. Github에 올리기.  
+   git remote add origin https://github.com/phantom0119/Baekjoon.git
+   접근 허가 (로그인)
+   git push origin master
+
+9. 타 PC에서 clone으로 다운
+   git clone https://github.com/phantom0119/Baekjoon.git .     ->  마지막 마침표 = 현재 위치(폴더)
+   
+10. 원격 저장소에 새로운 Commit이 있으면 가져오기.
+     gir pull origin master
