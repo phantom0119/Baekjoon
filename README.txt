@@ -28,4 +28,9 @@ GIT 학습 중
    git clone https://github.com/phantom0119/Baekjoon.git .     ->  마지막 마침표 = 현재 위치(폴더)
    
 10. 원격 저장소에 새로운 Commit이 있으면 가져오기.
-     gir pull origin master
+   git pull origin master
+
+
+
+
+
