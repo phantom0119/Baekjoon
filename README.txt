@@ -1,3 +1,18 @@
+########################################################
+알고리즘 공부를 위해 Baekjoon Online Judge 해결 문제를 정리한 공간.
+BaekJoon Code Algorithm Solution Collection (Word) - 성공한 문제 풀이.
+-> 문서를 영문 위주로 작성 (부족한 영어 공부를 조금이라도 하고 싶어서...)
+
+참고자료 (PPT) - 문서 작성과 블로그에 사용된 이미지 자료. 풀이 정리.
+
+Completed - Baekjoon에서 "맞았습니다" 처리된 문제. 
+Documentation - 성공한 항목 중 문서화까지 마무리.
+
+개인 블로그 : zifmfmphantom.tistory.com (천보기의 IT 학습마당)
+########################################################
+
+
+
 GIT 학습 중
 
 1. 폴더 생성 후 git init  -> .git 폴더 등장
@@ -29,6 +44,7 @@ GIT 학습 중
    
 10. 원격 저장소에 새로운 Commit이 있으면 가져오기.
    git pull origin master
+
 
 
 
